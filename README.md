@@ -18,13 +18,10 @@
 
 ## 🧑‍💻 关于我
 
-- 具备 **Vue3** 与 **React** 两个完整项目经验，并熟悉 **Node.js BFF / SSE / RAG / Function Calling**，能独立完成从前端页面到 AI 应用落地的全流程开发。
-- 了解 RAG 全链路与 LLM 流式对接，熟悉 Prompt 工程、MCP 协议与 AI Skill 开发。
-- 熟悉 Vite / Webpack 与模块化开发、代码分包、性能优化；了解 HTTP/TCP 协议、浏览器渲染与同源策略。
+- 具备 **Vue3** 与 **React** 三个完整项目经验，能独立完成从前端页面到 AI 应用落地的全流程开发。
 - 熟悉部分 **Vue3 源码**，能手写 `reactive` / `effect` / `ref` / `computed` / `watch` 等核心模块。
 - 算法与基础扎实：**LeetCode 200+**，完成 **CSAPP** 的 `data` / `bomb` / `attack` / `cache` 四个 lab。
 - 英语 **CET-6 595**，能阅读英文文档与框架源码。
-- 对前端技术有热情，乐于追根溯源，学习与迁移能力强。
 
 ## 🛠 技术栈
 
